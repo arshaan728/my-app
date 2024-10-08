@@ -1,0 +1,25 @@
+{
+    "dataUrl": "3SpcYgO5mDOBEsuUUKmbSNhYNHTN4h8nnPWjMWWE.unityweb",
+    "companyName": "Hologo",
+    "graphicsAPI": [
+        "WebGL 2.0",
+        "WebGL 1.0"
+    ],
+    "productName": "Animal Cell",
+    "wasmCodeUrl": "nNisE97acQRheY3VdzpXBBYYjS4GuyG6I3loRxLX.unityweb",
+    "cacheControl": {
+        "default": "must-revalidate"
+    },
+    "unityVersion": "2019.4.12f1",
+    "multithreading": false,
+    "productVersion": "0.1",
+    "backgroundColor": "#FFFFFF",
+  
+    "developmentBuild": false,
+  
+    "wasmFrameworkUrl": "WSIYKKz5qgvzv6ppnCwyGnnuqkIiDPALhrQr1ssL.unityweb",
+    "splashScreenStyle": "Light",
+    "webglContextAttributes": {
+        "preserveDrawingBuffer": false
+    }
+}

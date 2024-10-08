@@ -1,0 +1,32 @@
+{"Scene": "DC Motor",
+"slide_names": [{"en": "D.C. Motor", "si": "D.C. Motor", "ta": "D.C. Motor"},{"en": "D.C. Motor Cross Section", "si": "D.C. Motor Cross Section", "ta": "D.C. Motor Cross Section"}],
+"quiz_names": ["quiz_1"],
+"slide_1": {
+	"labels":{
+		"en" : [""],
+		"si" : [""],
+		"ta" : [""]},
+	"audios":{
+		"en" : "",
+		"si" : "",
+		"ta" : ""}
+	},
+"slide_2": {
+	"labels":{
+		"en" : ["Propellor","Stator Magnet","Stator Cover","Commutator","Rotor Windings","Brushes","Bottom Cover"],
+		"si" : ["wjr fm;s","iafÜg¾ pqïnlh","iafÜg¾ wdjrKh","fldñhqfÜgrh ","frdg¾ t;Sï","nqreiq","my< ljrh"],
+		"ta" : [",wf;if","epiyaf fhe;jk;","epiyaf %b","jpirkhw;wp","Nuhl;lhu; KWf;Ffs;","J}upiffs;","fPo; %b"]},
+	"audios":{
+		"en" : "",
+		"si" : "",
+		"ta" : ""}
+	},
+"quiz_1": {
+	"labels":{
+		"en" : ["Propellor","Stator Magnet","Stator Cover","Commutator","Rotor Windings","Brushes","Bottom Cover"],
+		"si" : ["wjr fm;s","iafÜg¾ pqïnlh","iafÜg¾ wdjrKh","fldñhqfÜgrh ","frdg¾ t;Sï","nqreiq","my< ljrh"],
+		"ta" : [",wf;if","epiyaf fhe;jk;","epiyaf %b","jpirkhw;wp","Nuhl;lhu; KWf;Ffs;","J}upiffs;","fPo; %b"]},
+	"timings":[10,20,30]
+	},
+"languages": ["en","si","ta"]
+}

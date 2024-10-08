@@ -1,0 +1,16 @@
+{
+"companyName": "Labs",
+"productName": "Viewer",
+"productVersion": "0.1",
+"dataUrl": "OxygenAtom.data.unityweb",
+"wasmCodeUrl": "OxygenAtom.wasm.code.unityweb",
+"wasmFrameworkUrl": "OxygenAtom.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}

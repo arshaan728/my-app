@@ -1,0 +1,52 @@
+{"Scene": "Human Heart",
+"slide_names": [{"en": "Slide 1", "si": "msgqj 1", "ta": "gf;fk; 1", "ms": "Slide 1", "es": "Slide 1", "id": "Slide 1", "tr": "Slide 1"},{"en": "Slide 2", "si": "msgqj 2", "ta": "gf;fk; 2", "ms": "Slide 2", "es": "Slide 2", "id": "Slide 2", "tr": "Slide 2"}],
+"quiz_names": ["quiz_1"],
+"slide_1": {
+	"labels":{
+		"en" : ["Aorta","Vena Cava","Pulmonary Vein","Pulmonary Artery","Left Atrium","Right Atrium","Semilunar Valves","Tricuspid Valves","Tendons","Chamber of Right Ventricle","Wall of Right Ventricle","Bicuspid Valve","Chamber of Left Ventricle","Wall of Left Ventricle","Septum"],
+		"si" : ["ixia:dksl uyd Ou‚h","uyd Ysrdj","MqmamqYSh Ysrdj","MqmamqYSh Ou‚h","jï l¾‚ldj","ol=Kq l¾‚ldj","",";%S ;=Kav lmdgh","lKavrdjka","ol=Kq fldaYsl l=àrh","ol=Kq fldaYsld ì;a;sh","oaú;=Kav lmdgh","jï fldaYsl l=àrh","jï fldaYsl ì;a;sh","wdjdrh"],
+		"ta" : ["ngUehb","ngUehsk;","Rthrg;ig ehsk;","Rthrg;ig ehb",",lJ Nrhizaiw","tyJ Nrhizaiw","miukjp thy;Tfs;","Kf;$u;thy;T","rpiufs;","tyJ ,jatiw","tyJ ,jatiwr; Rtu;",",U$u;thy;T",",lJ ,jatiw",",lJ ,jatiwr; Rtu;","gpupRtu;"],
+		"ms" : ["Aorta","Vena Cava","Pulmonary Vein","Pulmonary Artery","Left Atrium","Right Atrium","Semilunar Valves","Tricuspid Valves","Tendons","Chamber of Right Ventricle","Wall of Right Ventricle","Bicuspid Valve","Chamber of Left Ventricle","Wall of Left Ventricle","Septum"],
+		"es" : ["Aorta","Vena Cava","Pulmonary Vein","Pulmonary Artery","Left Atrium","Right Atrium","Semilunar Valves","Tricuspid Valves","Tendons","Chamber of Right Ventricle","Wall of Right Ventricle","Bicuspid Valve","Chamber of Left Ventricle","Wall of Left Ventricle","Septum"],
+		"id" : ["Aorta","Vena Cava","Pulmonary Vein","Pulmonary Artery","Left Atrium","Right Atrium","Semilunar Valves","Tricuspid Valves","Tendons","Chamber of Right Ventricle","Wall of Right Ventricle","Bicuspid Valve","Chamber of Left Ventricle","Wall of Left Ventricle","Septum"],
+		"tr" : ["Aorta","Vena Cava","Pulmonary Vein","Pulmonary Artery","Left Atrium","Right Atrium","Semilunar Valves","Tricuspid Valves","Tendons","Chamber of Right Ventricle","Wall of Right Ventricle","Bicuspid Valve","Chamber of Left Ventricle","Wall of Left Ventricle","Septum"]},
+	"audios":{
+		"en" : "",
+		"si" : "",
+		"ta" : "",
+		"ms" : "",
+		"es" : "",
+		"id" : "",
+		"tr" : ""}
+	},
+"slide_2": {
+	"labels":{
+		"en" : ["Aorta","Vena Cava","Pulmonary Vein","Pulmonary Artery","Left Atrium","Right Atrium","Semilunar Valves","Tricuspid Valves","Tendons","Chamber of Right Ventricle","Wall of Right Ventricle","Bicuspid Valve","Chamber of Left Ventricle","Wall of Left Ventricle","Septum"],
+		"si" : ["ixia:dksl uyd Ou‚h","uyd Ysrdj","MqmamqYSh Ysrdj","MqmamqYSh Ou‚h","jï l¾‚ldj","ol=Kq l¾‚ldj","",";%S ;=Kav lmdgh","lKavrdjka","ol=Kq fldaYsl l=àrh","ol=Kq fldaYsld ì;a;sh","oaú;=Kav lmdgh","jï fldaYsl l=àrh","jï fldaYsl ì;a;sh","wdjdrh"],
+		"ta" : ["ngUehb","ngUehsk;","Rthrg;ig ehsk;","Rthrg;ig ehb",",lJ Nrhizaiw","tyJ Nrhizaiw","miukjp thy;Tfs;","Kf;$u;thy;T","rpiufs;","tyJ ,jatiw","tyJ ,jatiwr; Rtu;",",U$u;thy;T",",lJ ,jatiw",",lJ ,jatiwr; Rtu;","gpupRtu;"],
+		"ms" : ["Aorta","Vena Cava","Pulmonary Vein","Pulmonary Artery","Left Atrium","Right Atrium","Semilunar Valves","Tricuspid Valves","Tendons","Chamber of Right Ventricle","Wall of Right Ventricle","Bicuspid Valve","Chamber of Left Ventricle","Wall of Left Ventricle","Septum"],
+		"es" : ["Aorta","Vena Cava","Pulmonary Vein","Pulmonary Artery","Left Atrium","Right Atrium","Semilunar Valves","Tricuspid Valves","Tendons","Chamber of Right Ventricle","Wall of Right Ventricle","Bicuspid Valve","Chamber of Left Ventricle","Wall of Left Ventricle","Septum"],
+		"id" : ["Aorta","Vena Cava","Pulmonary Vein","Pulmonary Artery","Left Atrium","Right Atrium","Semilunar Valves","Tricuspid Valves","Tendons","Chamber of Right Ventricle","Wall of Right Ventricle","Bicuspid Valve","Chamber of Left Ventricle","Wall of Left Ventricle","Septum"],
+		"tr" : ["Aorta","Vena Cava","Pulmonary Vein","Pulmonary Artery","Left Atrium","Right Atrium","Semilunar Valves","Tricuspid Valves","Tendons","Chamber of Right Ventricle","Wall of Right Ventricle","Bicuspid Valve","Chamber of Left Ventricle","Wall of Left Ventricle","Septum"]},
+	"audios":{
+		"en" : "",
+		"si" : "",
+		"ta" : "",
+		"ms" : "",
+		"es" : "",
+		"id" : "",
+		"tr" : ""}
+	},
+"quiz_1": {
+	"labels":{
+		"en" : ["Aorta","Vena Cava","Pulmonary Vein","Pulmonary Artery","Left Atrium","Right Atrium","Septum"],
+		"si" : ["ixia:dksl uyd Ou‚h","uyd Ysrdj","MqmamqYSh Ysrdj","MqmamqYSh Ou‚h","jï l¾‚ldj","ol=Kq l¾‚ldj","wdjdrh"],
+		"ta" : ["ngUehb","ngUehsk;","Rthrg;ig ehsk;","Rthrg;ig ehb",",lJ Nrhizaiw","tyJ Nrhizaiw","gpupRtu;"],
+		"ms" : ["Aorta","Vena Cava","Pulmonary Vein","Pulmonary Artery","Left Atrium","Right Atrium","Septum"],
+		"es" : ["Aorta","Vena Cava","Pulmonary Vein","Pulmonary Artery","Left Atrium","Right Atrium","Septum"],
+		"id" : ["Aorta","Vena Cava","Pulmonary Vein","Pulmonary Artery","Left Atrium","Right Atrium","Septum"],
+		"tr" : ["Aorta","Vena Cava","Pulmonary Vein","Pulmonary Artery","Left Atrium","Right Atrium","Septum"]},
+	"timings":[10,20,30]
+	},
+"languages": ["en","si","ta","ms","es","id","tr"]
+}

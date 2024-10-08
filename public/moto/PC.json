@@ -1,0 +1,17 @@
+{
+"companyName": "Hologo",
+"productName": "PC",
+"productVersion": "0.1",
+"dataUrl": "PC.data.unityweb",
+"wasmCodeUrl": "PC.wasm.code.unityweb",
+"wasmFrameworkUrl": "PC.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#fff",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
+
